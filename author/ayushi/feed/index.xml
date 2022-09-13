@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>if3 &#8211; Indian Friends of 3GPP</title>
+	<atom:link href="/webtest/author/ayushi/feed/" rel="self" type="application/rss+xml" />
+	<link>/webtest/</link>
+	<description>hosting 3GPP meetings in India since 2014</description>
+	<lastBuildDate>Thu, 25 Jun 2020 08:41:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/webtest/wp-content/uploads/2020/05/IF3-logo_150x150-150x150.png</url>
+	<title>if3 &#8211; Indian Friends of 3GPP</title>
+	<link>/webtest/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>All 3GPP meetings for rest of 2020 converted to e-Meetings</title>
+		<link>/webtest/all-3gpp-meetings-for-rest-of-2020-converted-to-e-meetings/</link>
+		
+		<dc:creator><![CDATA[if3]]></dc:creator>
+		<pubDate>Mon, 18 May 2020 05:40:16 +0000</pubDate>
+				<category><![CDATA[3GPP]]></category>
+		<category><![CDATA[RAN]]></category>
+		<guid isPermaLink="false">/webtest/?p=311</guid>
+
+					<description><![CDATA[On 18 May 2020, the 3GPP TSG and Working Group chairs notified the community that all 2020 meetings will now be planned as e-meetings, by default. As a result, all the IF3 hosted meetings in India in 2H2020 also stand cancelled and will be converted to e-Meetings. The details of these e-Meetings shall be communicated &#8230;<p class="read-more"> <a class="" href="/webtest/all-3gpp-meetings-for-rest-of-2020-converted-to-e-meetings/"> <span class="screen-reader-text">All 3GPP meetings for rest of 2020 converted to e-Meetings</span> Read More &#187;</a></p>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>3GPP Release timelines &#8211; Latest news</title>
+		<link>/webtest/latest-news-on-3gpp-release-timelines/</link>
+		
+		<dc:creator><![CDATA[if3]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2020 05:38:00 +0000</pubDate>
+				<category><![CDATA[3GPP]]></category>
+		<category><![CDATA[RAN]]></category>
+		<guid isPermaLink="false">/webtest/?p=304</guid>
+
+					<description><![CDATA[3GPP has updated its Release Timelines. A shift of the Rel-16 timeline was approved at last week’s TSG#87 plenary e-meetings. Rel-16 Stage 3 freeze now June 2020 (shifted by 3 months) Rel-16 ASN.1 and OpenAPI specification freeze will also be complete in June 2020 (stays as planned) At the same meeting, a TSG and WG &#8230;<p class="read-more"> <a class="" href="/webtest/latest-news-on-3gpp-release-timelines/"> <span class="screen-reader-text">3GPP Release timelines &#8211; Latest news</span> Read More &#187;</a></p>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>3GPP Plenary Meetings in India &#8211; March 2018</title>
+		<link>/webtest/3gpp-plenary-meetings-in-india-march-2018/</link>
+					<comments>/webtest/3gpp-plenary-meetings-in-india-march-2018/#comments</comments>
+		
+		<dc:creator><![CDATA[if3]]></dc:creator>
+		<pubDate>Sun, 25 Mar 2018 16:05:00 +0000</pubDate>
+				<category><![CDATA[3GPP]]></category>
+		<category><![CDATA[RAN]]></category>
+		<guid isPermaLink="false">https://sh006/cgi/addon_GT.cgi?s=GT::WP::Install::EIG+%28indianfr%29+-+10.0.87.66+%5BWordPress%3b+/var/hp/common/lib/WordPress.pm%3b+295%3b+Hosting::gap_call%5D/?p=1</guid>
+
+					<description><![CDATA[First 3GPP Plenary Meetings in India
+hosted by IF3 in Chennai]]></description>
+		
+					<wfw:commentRss>/webtest/3gpp-plenary-meetings-in-india-march-2018/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

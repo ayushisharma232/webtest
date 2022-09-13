@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 3GPP Plenary Meetings in India &#8211; March 2018	</title>
+	<atom:link href="/webtest/3gpp-plenary-meetings-in-india-march-2018/feed/" rel="self" type="application/rss+xml" />
+	<link>/webtest/3gpp-plenary-meetings-in-india-march-2018/</link>
+	<description>hosting 3GPP meetings in India since 2014</description>
+	<lastBuildDate>Thu, 25 Jun 2020 04:45:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		By: A WordPress Commenter		</title>
+		<link>/webtest/3gpp-plenary-meetings-in-india-march-2018/#comment-1</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Thu, 07 May 2020 16:05:07 +0000</pubDate>
+		<guid isPermaLink="false">https://sh006/cgi/addon_GT.cgi?s=GT::WP::Install::EIG+%28indianfr%29+-+10.0.87.66+%5BWordPress%3b+/var/hp/common/lib/WordPress.pm%3b+295%3b+Hosting::gap_call%5D/?p=1#comment-1</guid>
+
+					<description><![CDATA[Congratulations!]]></description>
+			<content:encoded><![CDATA[<p>Congratulations!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
